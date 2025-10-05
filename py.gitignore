@@ -1,0 +1,16 @@
+# System and cache files
+AppData/
+.positron/extensions/
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+node_modules/
+__pycache__/
+*.pyc
